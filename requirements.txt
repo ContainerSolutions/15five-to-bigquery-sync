@@ -1,0 +1,4 @@
+apache_beam[gcp]
+apache-beam==2.27.0
+requests
+pandas
